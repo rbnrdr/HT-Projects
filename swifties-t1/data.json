@@ -1,0 +1,134 @@
+{
+  "League": {
+    "LeagueID": 1003,
+    "LeagueName": "Homegrown League"
+  },
+  "WeeklyData": [
+    {
+      "Season": 1,
+      "Week": 15,
+      "League": {
+        "LeagueLevelUnitID": 266793,
+        "LeagueLevelUnitName": "V.110"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [],
+      "PowerRating": 728,
+      "FanclubSize": 1091,
+      "ArenaCapacity": 13895,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 439752701,
+          "Name": "Seet Kiong Tian",
+          "Age": 36,
+          "AgeDays": 105,
+          "TrainerType": 0,
+          "Leadership": 3,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Azmin Azram Rusyduddin",
+            "StaffId": 1597155,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Tee Jing Leong",
+            "StaffId": 2024255,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Hasbullah Marjan",
+            "StaffId": 444076,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 484175394,
+          "PlayerNumber": 1,
+          "Age": 18,
+          "AgeDays": 28,
+          "TSI": 20280,
+          "Salary": 4740,
+          "PlayerForm": 6,
+          "Experience": 3,
+          "Leadership": 1,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 5,
+          "ScorerSkill": 5,
+          "PassingSkill": 5,
+          "WingerSkill": 5,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1263240
+        },
+        {
+          "PlayerID": 484175393,
+          "PlayerNumber": 21,
+          "Age": 18,
+          "AgeDays": 28,
+          "TSI": 1660,
+          "Salary": 1040,
+          "PlayerForm": 4,
+          "Experience": 2,
+          "Leadership": 1,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 6,
+          "PlaymakerSkill": 5,
+          "ScorerSkill": 5,
+          "PassingSkill": 5,
+          "WingerSkill": 5,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1000
+        }
+      ]
+    }
+  ],
+  "PlayerList": [
+    {
+      "PlayerID": 484175394,
+      "FirstName": "Mohammad Hafiz",
+      "NickName": "",
+      "LastName": "Marwan",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 4,
+      "Aggressiveness": 0,
+      "Honesty": 3,
+      "SpecialtyID": 5,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 484175393,
+      "FirstName": "Jazmi Mohd",
+      "NickName": "",
+      "LastName": "Sahar",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 2,
+      "Aggressiveness": 0,
+      "Honesty": 1,
+      "SpecialtyID": 3,
+      "CountryID": 45
+    }
+  ]
+}
