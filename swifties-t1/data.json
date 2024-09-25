@@ -114,7 +114,24 @@
         "TrainingType": 9,
         "StaminaTrainingPart": 10
       },
-      "Matches": [],
+      "Matches": [
+        {
+          "MatchID": 737649546,
+          "MatchType": 3,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 12,
+          "RatingRightDef": 18,
+          "RatingMidDef": 18,
+          "RatingLeftDef": 21,
+          "RatingRightAtt": 13,
+          "RatingMidAtt": 13,
+          "RatingLeftAtt": 15,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 15,
+          "RatingIndirectSetPiecesAtt": 12
+        }
+      ],
       "PowerRating": 728,
       "FanclubSize": 1247,
       "ArenaCapacity": 13895,
@@ -212,8 +229,25 @@
         "TrainingType": 9,
         "StaminaTrainingPart": 10
       },
-      "Matches": [],
-      "PowerRating": 728,
+      "Matches": [
+        {
+          "MatchID": 740682596,
+          "MatchType": 1,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 16,
+          "RatingRightDef": 29,
+          "RatingMidDef": 26,
+          "RatingLeftDef": 30,
+          "RatingRightAtt": 23,
+          "RatingMidAtt": 18,
+          "RatingLeftAtt": 22,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 22,
+          "RatingIndirectSetPiecesAtt": 17
+        }
+      ],
+      "PowerRating": 729,
       "FanclubSize": 1279,
       "ArenaCapacity": 13895,
       "StaffList": {
