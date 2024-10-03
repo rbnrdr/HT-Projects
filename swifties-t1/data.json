@@ -26,7 +26,7 @@
           "Name": "Seet Kiong Tian",
           "Age": 36,
           "AgeDays": 105,
-          "TrainerType": 0,
+          "TrainerType": 1,
           "Leadership": 3,
           "TrainerSkillLevel": 4
         },
@@ -141,7 +141,7 @@
           "Name": "Seet Kiong Tian",
           "Age": 37,
           "AgeDays": 2,
-          "TrainerType": 0,
+          "TrainerType": 1,
           "Leadership": 3,
           "TrainerSkillLevel": 4
         },
@@ -163,6 +163,12 @@
             "StaffId": 444076,
             "StaffType": 2,
             "StaffLevel": 4
+          },
+          {
+            "Name": "Hanif Hisyam Soleh",
+            "StaffId": 316797,
+            "StaffType": 3,
+            "StaffLevel": 3
           }
         ]
       },
@@ -245,6 +251,22 @@
           "TeamAttitude": -1,
           "RatingIndirectSetPiecesDef": 22,
           "RatingIndirectSetPiecesAtt": 17
+        },
+        {
+          "MatchID": 741419620,
+          "MatchType": 3,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 15,
+          "RatingRightDef": 27,
+          "RatingMidDef": 23,
+          "RatingLeftDef": 27,
+          "RatingRightAtt": 24,
+          "RatingMidAtt": 24,
+          "RatingLeftAtt": 24,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 18
         }
       ],
       "PowerRating": 729,
@@ -256,7 +278,7 @@
           "Name": "Seet Kiong Tian",
           "Age": 37,
           "AgeDays": 11,
-          "TrainerType": 0,
+          "TrainerType": 1,
           "Leadership": 3,
           "TrainerSkillLevel": 4
         },
@@ -278,6 +300,12 @@
             "StaffId": 444076,
             "StaffType": 2,
             "StaffLevel": 4
+          },
+          {
+            "Name": "Hanif Hisyam Soleh",
+            "StaffId": 316797,
+            "StaffType": 3,
+            "StaffLevel": 3
           }
         ]
       },
@@ -312,6 +340,143 @@
           "Age": 18,
           "AgeDays": 46,
           "TSI": 2760,
+          "Salary": 1040,
+          "PlayerForm": 5,
+          "Experience": 2,
+          "Leadership": 1,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 7,
+          "PlaymakerSkill": 5,
+          "ScorerSkill": 5,
+          "PassingSkill": 5,
+          "WingerSkill": 5,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 5000
+        }
+      ]
+    },
+    {
+      "Season": 2,
+      "Week": 3,
+      "League": {
+        "LeagueLevelUnitID": 266627,
+        "LeagueLevelUnitName": "IV.8"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 740682601,
+          "MatchType": 1,
+          "TacticType": 2,
+          "TacticSkill": 9,
+          "RatingMidfield": 8,
+          "RatingRightDef": 36,
+          "RatingMidDef": 34,
+          "RatingLeftDef": 35,
+          "RatingRightAtt": 20,
+          "RatingMidAtt": 11,
+          "RatingLeftAtt": 23,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 23,
+          "RatingIndirectSetPiecesAtt": 18
+        },
+        {
+          "MatchID": 741592258,
+          "MatchType": 3,
+          "TacticType": 2,
+          "TacticSkill": 10,
+          "RatingMidfield": 20,
+          "RatingRightDef": 34,
+          "RatingMidDef": 37,
+          "RatingLeftDef": 36,
+          "RatingRightAtt": 23,
+          "RatingMidAtt": 16,
+          "RatingLeftAtt": 22,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 24,
+          "RatingIndirectSetPiecesAtt": 18
+        }
+      ],
+      "PowerRating": 730,
+      "FanclubSize": 1309,
+      "ArenaCapacity": 13895,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 439752701,
+          "Name": "Seet Kiong Tian",
+          "Age": 37,
+          "AgeDays": 11,
+          "TrainerType": 1,
+          "Leadership": 3,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Azmin Azram Rusyduddin",
+            "StaffId": 1597155,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Tee Jing Leong",
+            "StaffId": 2024255,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Hasbullah Marjan",
+            "StaffId": 444076,
+            "StaffType": 2,
+            "StaffLevel": 4
+          },
+          {
+            "Name": "Hanif Hisyam Soleh",
+            "StaffId": 316797,
+            "StaffType": 3,
+            "StaffLevel": 3
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 484175394,
+          "PlayerNumber": 1,
+          "Age": 18,
+          "AgeDays": 51,
+          "TSI": 25800,
+          "Salary": 4740,
+          "PlayerForm": 6,
+          "Experience": 3,
+          "Leadership": 1,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 12,
+          "PlaymakerSkill": 5,
+          "ScorerSkill": 5,
+          "PassingSkill": 5,
+          "WingerSkill": 5,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1650000
+        },
+        {
+          "PlayerID": 484175393,
+          "PlayerNumber": 2,
+          "Age": 18,
+          "AgeDays": 51,
+          "TSI": 3020,
           "Salary": 1040,
           "PlayerForm": 5,
           "Experience": 2,
