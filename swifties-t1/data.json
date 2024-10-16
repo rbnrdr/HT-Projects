@@ -415,7 +415,7 @@
           "Name": "Seet Kiong Tian",
           "Age": 37,
           "AgeDays": 11,
-          "TrainerType": 3,
+          "TrainerType": 2,
           "Leadership": 3,
           "TrainerSkillLevel": 4
         },
@@ -552,7 +552,7 @@
           "Name": "Seet Kiong Tian",
           "Age": 37,
           "AgeDays": 11,
-          "TrainerType": 3,
+          "TrainerType": 0,
           "Leadership": 3,
           "TrainerSkillLevel": 4
         },
