@@ -4,8 +4,7 @@
     "LeagueName": "Homegrown League"
   },
   "WeeklyData": [
-    {
-      "Season": 1,
+    { "Season": 1,
       "Week": 16,
       "League": {
         "LeagueLevelUnitID": 266793,
@@ -102,8 +101,7 @@
         }
       ]
     },
-    {
-      "Season": 2,
+    { "Season": 2,
       "Week": 1,
       "League": {
         "LeagueLevelUnitID": 266627,
@@ -1327,9 +1325,9 @@
     },
     {
       "PlayerID": 484175393,
-      "FirstName": "Jazmi Mohd",
+      "FirstName": "Jazmi",
       "NickName": "",
-      "LastName": "Sahar",
+      "LastName": "Mohd Sahar",
       "MotherClubBonus": true,
       "IsAbroad": true,
       "Agreeability": 2,
@@ -1340,9 +1338,9 @@
     },
     {
       "PlayerID": 487965428,
-      "FirstName": "Habib Safiuddin",
+      "FirstName": "Habib",
       "NickName": "",
-      "LastName": "Hamid",
+      "LastName": "Safiuddin Hamid",
       "MotherClubBonus": true,
       "IsAbroad": true,
       "Agreeability": 2,
@@ -1353,9 +1351,9 @@
     },
     {
       "PlayerID": 488157879,
-      "FirstName": "Raja Ridha",
+      "FirstName": "Raja",
       "NickName": "",
-      "LastName": "Mahathir",
+      "LastName": "Ridha Mahathir",
       "MotherClubBonus": true,
       "IsAbroad": true,
       "Agreeability": 2,
@@ -1366,14 +1364,118 @@
     },
     {
       "PlayerID": 488131895,
-      "FirstName": "Mohd Abdul",
+      "FirstName": "Mohd Abdul Aziz",
       "NickName": "",
-      "LastName": "Aziz Ridwan",
+      "LastName": "Ridwan",
       "MotherClubBonus": true,
       "IsAbroad": true,
       "Agreeability": 2,
       "Aggressiveness": 2,
       "Honesty": 1,
+      "SpecialtyID": 4,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 488774667,
+      "FirstName": "Ong",
+      "NickName": "",
+      "LastName": "Chuan Long",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 3,
+      "Aggressiveness": 3,
+      "Honesty": 3,
+      "SpecialtyID": 5,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 488674248,
+      "FirstName": "Ng",
+      "NickName": "",
+      "LastName": "Wan Heng",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 1,
+      "Aggressiveness": 3,
+      "Honesty": 2,
+      "SpecialtyID": 4,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 490136150,
+      "FirstName": "Soon",
+      "NickName": "",
+      "LastName": "Siong An",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 3,
+      "Aggressiveness": 2,
+      "Honesty": 2,
+      "SpecialtyID": 3,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 488583516,
+      "FirstName": "Choong",
+      "NickName": "",
+      "LastName": "Kim Pin",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 2,
+      "Aggressiveness": 3,
+      "Honesty": 3,
+      "SpecialtyID": 2,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 490136155,
+      "FirstName": "Zainul Ariffin",
+      "NickName": "",
+      "LastName": "Silmi",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 3,
+      "Aggressiveness": 2,
+      "Honesty": 3,
+      "SpecialtyID": 1,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 489965565,
+      "FirstName": "Mohd Fahim",
+      "NickName": "",
+      "LastName": "Faizol",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 3,
+      "Aggressiveness": 1,
+      "Honesty": 2,
+      "SpecialtyID": 5,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 488550826,
+      "FirstName": "Vakkom",
+      "NickName": "",
+      "LastName": "Rajkumar",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 0,
+      "Aggressiveness": 1,
+      "Honesty": 3,
+      "SpecialtyID": 3,
+      "CountryID": 45
+    },
+    {
+      "PlayerID": 488550821,
+      "FirstName": "Mahesh",
+      "NickName": "",
+      "LastName": "Shasthri",
+      "MotherClubBonus": true,
+      "IsAbroad": true,
+      "Agreeability": 1,
+      "Aggressiveness": 3,
+      "Honesty": 0,
       "SpecialtyID": 4,
       "CountryID": 45
     }
